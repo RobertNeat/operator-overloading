@@ -1,6 +1,6 @@
 ![project_banner](banner.png)
 
-![environment](https://img.shields.io/badge/programming%20%20environment-CodeBlocks-blueviolet)
+![environment](https://img.shields.io/badge/graphic%20library-CtCrator-brightgreen)
 ![language](https://img.shields.io/badge/language-C%2B%2B-orange)
 ![paradigm](https://img.shields.io/badge/paradigm-OOP-blue)
 ## What project do?
